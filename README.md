@@ -31,19 +31,16 @@ Requisitos, ter o angular instalado na versão especificada anteriormente.
 Agora vamos aos passos para a instalação e execução do projeto:
 1. Clone o projeto:
 ```
-# Clonando o repositório
 $ git clone https://github.com/TalesReig/SistemaDeRequisicoesComBancoDeDadosNaNuvem.git
 ```
 
 2. Instale os pacotes, pasa isso vá ao diretório da pasta client e lá execute o instal:
 ```
-# Instalando os pacotes:
 $npm install
 ```
 
 3. Após isso execute o projeto:
 ```
-# Executando o projeto
 $ ng serve --o
 ```
 
