@@ -27,7 +27,7 @@ O Firebase é uma plataforma de desenvolvimento de aplicativos que oferece uma v
 
 ## Documentação de Instalação e Execução do Projeto Angular
 
-Requisitos, ter o angular instalado na versão especificada anteriormente.
+Requisitos, ter o angular instalado na versão especificada anteriormente. e o Node compatível
 Acredito que não precise do banco de dados pois ele esta na nuvem mas estou no plano grátis(então qualquer erro so me contatar).
 
 Agora vamos aos passos para a instalação e execução do projeto:
