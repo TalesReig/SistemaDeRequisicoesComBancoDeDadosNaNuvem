@@ -10,7 +10,7 @@ Este projeto foi desenvolvido como parte do trabalho final da disciplina de Banc
 
 ## Motivação
 
-Ao decidir sobre a abordagem para o desenvolvimento deste projeto, considerei que esta seria a última matéria de Banco de Dados em minha graduação. Em vez de seguir a abordagem convencional de utilizar um banco de dados relacional tradicional, decidi explorar uma solução baseada em nuvem que me permitisse aprender e aplicar conceitos de banco de dados de forma diferente.
+Ao decidir sobre a abordagem para o desenvolvimento deste projeto, considerei que esta seria a última matéria de Banco de Dados em minha graduação. Em vez de seguir a abordagem convencional e decidi explorar uma solução baseada em nuvem que me permitisse aprender e aplicar conceitos de banco de dados de forma diferente.
 
 ## Firebase como Solução
 
